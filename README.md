@@ -15,7 +15,7 @@ A simple full-stack quiz application for teachers and students.
 ## How to Run
 1. Install Java 17+, Maven, and MongoDB
 2. `mvn spring-boot:run` from the root directory
-3. Open `frontend/index.html` in your browser
+3. Open `localost:8080/login.html` in your browser
 
 ---
 
